@@ -18,13 +18,13 @@
 #include <time.h>
 #include <xlocale.h>
 #import <CommonCrypto/CommonHMAC.h>
-#import "AZSAuthenticationHandler.h"
-#import "AZSConstants.h"
-#import "AZSSharedKeyBlobAuthenticationHandler.h"
-#import "AZSStorageCredentials.h"
-#import "AZSEnums.h"
-#import "AZSOperationContext.h"
-#import "AZSUtil.h"
+#import "Azure Storage Client Library/AZSAuthenticationHandler.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSSharedKeyBlobAuthenticationHandler.h"
+#import "Azure Storage Client Library/AZSStorageCredentials.h"
+#import "Azure Storage Client Library/AZSEnums.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSUtil.h"
 
 @interface AZSSharedKeyBlobAuthenticationHandler()
 

@@ -17,10 +17,10 @@
 
 #include <asl.h>
 
-#import "AZSTestBase.h"
-#import "AZSConstants.h"
-#import "AZSCloudStorageAccount.h"
-#import "AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSTestBase.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSCloudStorageAccount.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
 
 @interface AZSTestBase()
 {

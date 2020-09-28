@@ -15,17 +15,17 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSEnums.h"
-#import "AZSErrors.h"
-#import "AZSConstants.h"
-#import "AZSCloudStorageAccount.h"
-#import "AZSCloudBlobClient.h"
-#import "AZSOperationContext.h"
-#import "AZSSharedAccessSignatureHelper.h"
-#import "AZSStorageUri.h"
-#import "AZSStorageCredentials.h"
-#import "AZSUriQueryBuilder.h"
-#import "AZSUtil.h"
+#import "Azure Storage Client Library/AZSEnums.h"
+#import "Azure Storage Client Library/AZSErrors.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSCloudStorageAccount.h"
+#import "Azure Storage Client Library/AZSCloudBlobClient.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSSharedAccessSignatureHelper.h"
+#import "Azure Storage Client Library/AZSStorageUri.h"
+#import "Azure Storage Client Library/AZSStorageCredentials.h"
+#import "Azure Storage Client Library/AZSUriQueryBuilder.h"
+#import "Azure Storage Client Library/AZSUtil.h"
 
 @interface AZSCloudStorageAccount()
 

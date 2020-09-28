@@ -15,7 +15,7 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSErrors.h"
+#import "Azure Storage Client Library/AZSErrors.h"
 
 NSString *const AZSErrorDomain = @"com.Microsoft.AzureStorage.ErrorDomain";
 NSString *const AZSInnerErrorString = @"InnerError";

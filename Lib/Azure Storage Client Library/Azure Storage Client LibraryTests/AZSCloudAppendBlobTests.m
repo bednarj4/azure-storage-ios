@@ -16,11 +16,11 @@
 // -----------------------------------------------------------------------------------------
 
 #import <XCTest/XCTest.h>
-#import "AZSBlobTestBase.h"
-#import "AZSClient.h"
-#import "AZSTestHelpers.h"
-#import "AZSTestSemaphore.h"
-#import "AZSUtil.h"
+#import "Azure Storage Client Library/AZSBlobTestBase.h"
+#import "Azure Storage Client Library/AZSClient.h"
+#import "Azure Storage Client Library/AZSTestHelpers.h"
+#import "Azure Storage Client Library/AZSTestSemaphore.h"
+#import "Azure Storage Client Library/AZSUtil.h"
 
 @interface AZSCloudAppendBlobTests : AZSBlobTestBase
 @property NSString *containerName;

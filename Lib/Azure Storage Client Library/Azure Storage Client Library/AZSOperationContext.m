@@ -15,7 +15,7 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
 
 @implementation AZSOperationContext
 {

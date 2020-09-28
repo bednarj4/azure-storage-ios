@@ -15,7 +15,7 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSContinuationToken.h"
+#import "Azure Storage Client Library/AZSContinuationToken.h"
 
 @implementation AZSContinuationToken
 

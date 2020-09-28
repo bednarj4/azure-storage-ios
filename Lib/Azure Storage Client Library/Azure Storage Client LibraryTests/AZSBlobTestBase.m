@@ -15,8 +15,8 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSBlobTestBase.h"
-#import "AZSClient.h"
+#import "Azure Storage Client Library/AZSBlobTestBase.h"
+#import "Azure Storage Client Library/AZSClient.h"
 
 @implementation AZSBlobTestBase
 

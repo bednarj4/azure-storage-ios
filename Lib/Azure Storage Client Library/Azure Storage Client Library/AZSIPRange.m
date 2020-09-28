@@ -16,11 +16,11 @@
 // -----------------------------------------------------------------------------------------
 
 #import <Foundation/Foundation.h>
-#import "AZSConstants.h"
-#import "AZSErrors.h"
-#import "AZSIPRange.h"
-#import "AZSOperationContext.h"
-#import "AZSUtil.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSErrors.h"
+#import "Azure Storage Client Library/AZSIPRange.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSUtil.h"
 #import "arpa/inet.h"
 
 @interface AZSIPRange()

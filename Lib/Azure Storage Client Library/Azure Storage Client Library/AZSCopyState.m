@@ -15,7 +15,7 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSCopyState.h"
+#import "Azure Storage Client Library/AZSCopyState.h"
 
 @implementation AZSCopyState
 

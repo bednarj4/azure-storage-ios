@@ -15,14 +15,14 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSConstants.h"
-#import "AZSErrors.h"
-#import "AZSStorageCommand.h"
-#import "AZSOperationContext.h"
-#import "AZSRequestResult.h"
-#import "AZSAuthenticationHandler.h"
-#import "AZSResponseParser.h"
-#import "AZSStorageCredentials.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSErrors.h"
+#import "Azure Storage Client Library/AZSStorageCommand.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSRequestResult.h"
+#import "Azure Storage Client Library/AZSAuthenticationHandler.h"
+#import "Azure Storage Client Library/AZSResponseParser.h"
+#import "Azure Storage Client Library/AZSStorageCredentials.h"
 
 @interface AZSStorageCommand()
 

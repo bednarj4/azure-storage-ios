@@ -15,8 +15,8 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSConstants.h"
-#import "AZSStorageUri.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSStorageUri.h"
 
 @interface AZSStorageUri()
 

@@ -15,13 +15,13 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSCloudBlobDirectory.h"
-#import "AZSCloudBlobContainer.h"
-#import "AZSCloudBlobClient.h"
-#import "AZSStorageUri.h"
-#import "AZSCloudBlockBlob.h"
-#import "AZSCloudPageBlob.h"
-#import "AZSCloudAppendBlob.h"
+#import "Azure Storage Client Library/AZSCloudBlobDirectory.h"
+#import "Azure Storage Client Library/AZSCloudBlobContainer.h"
+#import "Azure Storage Client Library/AZSCloudBlobClient.h"
+#import "Azure Storage Client Library/AZSStorageUri.h"
+#import "Azure Storage Client Library/AZSCloudBlockBlob.h"
+#import "Azure Storage Client Library/AZSCloudPageBlob.h"
+#import "Azure Storage Client Library/AZSCloudAppendBlob.h"
 
 @interface AZSCloudBlobDirectory()
 

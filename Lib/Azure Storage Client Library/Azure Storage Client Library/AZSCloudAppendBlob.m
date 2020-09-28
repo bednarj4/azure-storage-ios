@@ -15,21 +15,21 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSCloudAppendBlob.h"
-#import "AZSStorageUri.h"
-#import "AZSBlobProperties.h"
-#import "AZSOperationContext.h"
-#import "AZSBlobRequestOptions.h"
-#import "AZSStorageCommand.h"
-#import "AZSBlobRequestFactory.h"
-#import "AZSCloudBlobClient.h"
-#import "AZSResponseParser.h"
-#import "AZSExecutor.h"
-#import "AZSBlobResponseParser.h"
-#import "AZSUtil.h"
-#import "AZSBlobUploadHelper.h"
-#import "AZSAccessCondition.h"
-#import "AZSBlobOutputStream.h"
+#import "Azure Storage Client Library/AZSCloudAppendBlob.h"
+#import "Azure Storage Client Library/AZSStorageUri.h"
+#import "Azure Storage Client Library/AZSBlobProperties.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSBlobRequestOptions.h"
+#import "Azure Storage Client Library/AZSStorageCommand.h"
+#import "Azure Storage Client Library/AZSBlobRequestFactory.h"
+#import "Azure Storage Client Library/AZSCloudBlobClient.h"
+#import "Azure Storage Client Library/AZSResponseParser.h"
+#import "Azure Storage Client Library/AZSExecutor.h"
+#import "Azure Storage Client Library/AZSBlobResponseParser.h"
+#import "Azure Storage Client Library/AZSUtil.h"
+#import "Azure Storage Client Library/AZSBlobUploadHelper.h"
+#import "Azure Storage Client Library/AZSAccessCondition.h"
+#import "Azure Storage Client Library/AZSBlobOutputStream.h"
 
 @interface AZSAppendBlobUploadFromStreamInputContainer : NSObject
 

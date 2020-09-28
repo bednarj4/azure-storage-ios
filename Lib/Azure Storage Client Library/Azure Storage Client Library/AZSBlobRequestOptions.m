@@ -15,7 +15,7 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSBlobRequestOptions.h"
+#import "Azure Storage Client Library/AZSBlobRequestOptions.h"
 
 @interface AZSBlobRequestOptions()
 {

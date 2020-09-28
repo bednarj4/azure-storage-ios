@@ -16,19 +16,19 @@
 // -----------------------------------------------------------------------------------------
 
 #import <CommonCrypto/CommonDigest.h>
-#import "AZSConstants.h"
-#import "AZSExecutor.h"
-#import "AZSOperationContext.h"
-#import "AZSRequestOptions.h"
-#import "AZSEnums.h"
-#import "AZSStorageCommand.h"
-#import "AZSStorageUri.h"
-#import "AZSRequestResult.h"
-#import "AZSErrors.h"
-#import "AZSRetryContext.h"
-#import "AZSRetryInfo.h"
-#import "AZSUtil.h"
-#import "AZSStorageCredentials.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSExecutor.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSRequestOptions.h"
+#import "Azure Storage Client Library/AZSEnums.h"
+#import "Azure Storage Client Library/AZSStorageCommand.h"
+#import "Azure Storage Client Library/AZSStorageUri.h"
+#import "Azure Storage Client Library/AZSRequestResult.h"
+#import "Azure Storage Client Library/AZSErrors.h"
+#import "Azure Storage Client Library/AZSRetryContext.h"
+#import "Azure Storage Client Library/AZSRetryInfo.h"
+#import "Azure Storage Client Library/AZSUtil.h"
+#import "Azure Storage Client Library/AZSStorageCredentials.h"
 
 @interface AZSStreamDownloadBuffer : NSObject <NSStreamDelegate>
 {

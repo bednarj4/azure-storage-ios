@@ -16,11 +16,11 @@
 // -----------------------------------------------------------------------------------------
 
 #import <CommonCrypto/CommonHMAC.h>
-#import "AZSConstants.h"
-#import "AZSErrors.h"
-#import "AZSOperationContext.h"
-#import "AZSUtil.h"
-#import "AZSStorageCredentials.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSErrors.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSUtil.h"
+#import "Azure Storage Client Library/AZSStorageCredentials.h"
 
 @implementation AZSUtil
 

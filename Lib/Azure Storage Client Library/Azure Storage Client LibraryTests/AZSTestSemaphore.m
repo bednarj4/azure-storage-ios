@@ -15,7 +15,7 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSTestSemaphore.h"
+#import "Azure Storage Client Library/AZSTestSemaphore.h"
 
 @implementation AZSTestSemaphore
 

@@ -15,8 +15,8 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSRetryInfo.h"
-#import "AZSRetryContext.h"
+#import "Azure Storage Client Library/AZSRetryInfo.h"
+#import "Azure Storage Client Library/AZSRetryContext.h"
 
 @interface AZSRetryInfo()
 

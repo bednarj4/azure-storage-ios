@@ -15,8 +15,8 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSNoOpAuthenticationHandler.h"
-#import "AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSNoOpAuthenticationHandler.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
 
 @implementation AZSNoOpAuthenticationHandler
 -(void) signRequest:(NSMutableURLRequest *)request operationContext:(AZSOperationContext *)operationContext

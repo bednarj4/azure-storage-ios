@@ -16,8 +16,8 @@
 // -----------------------------------------------------------------------------------------
 
 #include <time.h>
-#import "AZSConstants.h"
-#import "AZSRequestResult.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSRequestResult.h"
 
 @interface AZSRequestResult()
 
