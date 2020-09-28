@@ -8,11 +8,19 @@ let package = Package(
     products: [
         .library(name: "AZSClient",
                  targets: ["AZSClient"]),
+        .library(name: "AZSClientObjC",
+                 targets: ["AZSClientObjC"]),
     ],
     dependencies: [ ],
     targets: [
         .target(name: "AZSClient",
+                dependencies: ["AZSClientObjC"],
+                path: "Lib/Azure Storage Client Library/SwiftSources"),
+        .target(name: "AZSClientObjC",
                 dependencies: [],
-                path: "Lib/Azure Storage Client Library/Azure Storage Client Library")
+                path: "Lib/Azure Storage Client Library/Azure Storage Client Library",
+                cSettings: [
+                      .headerSearchPath("Lib/Azure Storage Client Library/Azure Storage Client Library"),
+                   ])
     ]
 )
