@@ -1,3 +1,6 @@
+2020.10.01 Version 0.3.0
+ * Added support for Swift Package Manager with the new `AZSClient` static library product.
+
 2018.03.07 Version 0.2.6
  * Fixed thread-safety issue related to NSDateFormatter.
 
