@@ -15,7 +15,7 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSBlockListItem.h"
+#import "Azure Storage Client Library/AZSBlockListItem.h"
 
 @interface AZSBlockListItem()
 

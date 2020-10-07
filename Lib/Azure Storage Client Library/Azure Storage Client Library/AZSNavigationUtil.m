@@ -15,14 +15,14 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSConstants.h"
-#import "AZSErrors.h"
-#import "AZSNavigationUtil.h"
-#import "AZSOperationContext.h"
-#import "AZSStorageUri.h"
-#import "AZSUtil.h"
-#import "AZSStorageCredentials.h"
-#import "AZSUriQueryBuilder.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSErrors.h"
+#import "Azure Storage Client Library/AZSNavigationUtil.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSStorageUri.h"
+#import "Azure Storage Client Library/AZSUtil.h"
+#import "Azure Storage Client Library/AZSStorageCredentials.h"
+#import "Azure Storage Client Library/AZSUriQueryBuilder.h"
 
 @implementation AZSNavigationUtil
 

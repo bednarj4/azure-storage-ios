@@ -15,11 +15,11 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSConstants.h"
-#import "AZSStorageCredentials.h"
-#import "AZSUriQueryBuilder.h"
-#import "AZSUtil.h"
-#import "AZSStorageUri.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSStorageCredentials.h"
+#import "Azure Storage Client Library/AZSUriQueryBuilder.h"
+#import "Azure Storage Client Library/AZSUtil.h"
+#import "Azure Storage Client Library/AZSStorageUri.h"
 
 @interface AZSStorageCredentials()
 

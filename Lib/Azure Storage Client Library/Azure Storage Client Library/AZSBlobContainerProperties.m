@@ -15,8 +15,8 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSBlobContainerProperties.h"
-#import "AZSEnums.h"
+#import "Azure Storage Client Library/AZSBlobContainerProperties.h"
+#import "Azure Storage Client Library/AZSEnums.h"
 
 @implementation AZSBlobContainerProperties
 

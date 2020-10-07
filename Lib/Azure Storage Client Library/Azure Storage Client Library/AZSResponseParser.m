@@ -15,10 +15,10 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSConstants.h"
-#import "AZSResponseParser.h"
-#import "AZSErrors.h"
-#import "AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSResponseParser.h"
+#import "Azure Storage Client Library/AZSErrors.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
 
 @implementation AZSStorageXMLParserDelegate
 

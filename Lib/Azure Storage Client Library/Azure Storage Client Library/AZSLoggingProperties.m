@@ -16,7 +16,7 @@
 // -----------------------------------------------------------------------------------------
 
 #import <Foundation/Foundation.h>
-#import "AZSLoggingProperties.h"
+#import "Azure Storage Client Library/AZSLoggingProperties.h"
 
 @implementation AZSLoggingProperties
 

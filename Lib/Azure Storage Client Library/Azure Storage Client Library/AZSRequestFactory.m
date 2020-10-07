@@ -15,10 +15,10 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSRequestFactory.h"
-#import "AZSAccessCondition.h"
-#import "AZSConstants.h"
-#import "AZSUtil.h"
+#import "Azure Storage Client Library/AZSRequestFactory.h"
+#import "Azure Storage Client Library/AZSAccessCondition.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSUtil.h"
 @implementation AZSRequestFactory
 
 // TODO: Make a helper method for all these.  Remove UA string setting (or move the version in executor to here.)

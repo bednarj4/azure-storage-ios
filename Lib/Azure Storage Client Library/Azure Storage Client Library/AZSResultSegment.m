@@ -15,7 +15,7 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSResultSegment.h"
+#import "Azure Storage Client Library/AZSResultSegment.h"
 
 @implementation AZSResultSegment
 +(instancetype) segmentWithResults:(NSArray *)results continuationToken:(AZSContinuationToken *)continuationToken

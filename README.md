@@ -24,6 +24,29 @@ target 'TargetName' do
 end
 ```
 
+#### Package.swift
+```swift
+// swift-tools-version:5.2
+import PackageDescription
+
+let package = Package(
+    name: "PackageName",
+    products: [
+        .library(name: "ProductName", type: .dynamic, targets: ["TargetName"])
+    ],
+    dependencies: [
+        .package(name: "azure-storage-ios", url: "https://github.com/bednarj4/azure-storage-ios.git", "0.3.0")
+    ],
+    targets: [
+        .target(name: "TargetName",
+                dependencies: [
+                    .product(name: "AZSClient", package: "azure-storage-ios"),
+                ])
+    ]
+)
+
+```
+
 #### Framework
 The other way to use the library is to build the framework manually:
 1. First, download or clone the [azure-storage-ios repo](https://github.com/azure/azure-storage-ios).

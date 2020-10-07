@@ -16,9 +16,9 @@
 // -----------------------------------------------------------------------------------------
 
 #import <XCTest/XCTest.h>
-#import "AZSConstants.h"
-#import "AZSTestHelpers.h"
-#import "AZSClient.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSTestHelpers.h"
+#import "Azure Storage Client Library/AZSClient.h"
 
 @import ObjectiveC;
 

@@ -15,8 +15,8 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSAccessCondition.h"
-#import "AZSUtil.h"
+#import "Azure Storage Client Library/AZSAccessCondition.h"
+#import "Azure Storage Client Library/AZSUtil.h"
 
 
 @implementation AZSAccessCondition

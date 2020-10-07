@@ -16,9 +16,9 @@
 // -----------------------------------------------------------------------------------------
 
 #import <XCTest/XCTest.h>
-#import "AZSClient.h"
-#import "AZSConstants.h"
-#import "AZSTestBase.h"
+#import "Azure Storage Client Library/AZSClient.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSTestBase.h"
 
 @interface AZSCloudStorageAccountTests : AZSTestBase
 

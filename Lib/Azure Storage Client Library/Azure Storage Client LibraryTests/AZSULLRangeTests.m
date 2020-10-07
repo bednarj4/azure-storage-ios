@@ -16,7 +16,7 @@
 // -----------------------------------------------------------------------------------------
 
 #import <XCTest/XCTest.h>
-#import "AZSULLRange.h"
+#import "Azure Storage Client Library/AZSULLRange.h"
 
 @interface AZSULLRangeTests : XCTestCase
 

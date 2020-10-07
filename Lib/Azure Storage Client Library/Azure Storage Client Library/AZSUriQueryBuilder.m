@@ -15,9 +15,9 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSConstants.h"
-#import "AZSUriQueryBuilder.h"
-#import "AZSUtil.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSUriQueryBuilder.h"
+#import "Azure Storage Client Library/AZSUtil.h"
 
 @implementation AZSUriQueryBuilder
 

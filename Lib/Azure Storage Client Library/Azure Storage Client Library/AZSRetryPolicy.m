@@ -15,10 +15,10 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSRetryPolicy.h"
-#import "AZSRetryInfo.h"
-#import "AZSRetryContext.h"
-#import "AZSRequestResult.h"
+#import "Azure Storage Client Library/AZSRetryPolicy.h"
+#import "Azure Storage Client Library/AZSRetryInfo.h"
+#import "Azure Storage Client Library/AZSRetryContext.h"
+#import "Azure Storage Client Library/AZSRequestResult.h"
 
 @interface AZSRetryPolicyUtil : NSObject
 

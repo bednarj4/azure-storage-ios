@@ -15,11 +15,11 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSBlobOutputStream.h"
-#import "AZSCloudBlockBlob.h"
-#import "AZSBlockListItem.h"
-#import "AZSBlobUploadHelper.h"
-#import "AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSBlobOutputStream.h"
+#import "Azure Storage Client Library/AZSCloudBlockBlob.h"
+#import "Azure Storage Client Library/AZSBlockListItem.h"
+#import "Azure Storage Client Library/AZSBlobUploadHelper.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
 
 @interface AZSBlobOutputStream()
 

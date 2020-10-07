@@ -16,14 +16,14 @@
 // -----------------------------------------------------------------------------------------
 
 #import <XCTest/XCTest.h>
-#import "AZSServiceProperties.h"
-#import "AZSCorsRule.h"
-#import "AZSLoggingProperties.h"
-#import "AZSMetricsProperties.h"
-#import "AZSTestSemaphore.h"
-#import "AZSBlobTestBase.h"
-#import "AZSTestHelpers.h"
-#import "AZSClient.h"
+#import "Azure Storage Client Library/AZSServiceProperties.h"
+#import "Azure Storage Client Library/AZSCorsRule.h"
+#import "Azure Storage Client Library/AZSLoggingProperties.h"
+#import "Azure Storage Client Library/AZSMetricsProperties.h"
+#import "Azure Storage Client Library/AZSTestSemaphore.h"
+#import "Azure Storage Client Library/AZSBlobTestBase.h"
+#import "Azure Storage Client Library/AZSTestHelpers.h"
+#import "Azure Storage Client Library/AZSClient.h"
 
 @interface AZSServicePropertiesTests : AZSBlobTestBase
 

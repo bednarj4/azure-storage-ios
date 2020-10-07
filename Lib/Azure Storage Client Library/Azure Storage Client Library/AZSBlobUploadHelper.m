@@ -16,17 +16,17 @@
 // -----------------------------------------------------------------------------------------
 
 #import <CommonCrypto/CommonDigest.h>
-#import "AZSConstants.h"
-#import "AZSErrors.h"
-#import "AZSBlobUploadHelper.h"
-#import "AZSCloudBlockBlob.h"
-#import "AZSCloudPageBlob.h"
-#import "AZSCloudAppendBlob.h"
-#import "AZSBlockListItem.h"
-#import "AZSBlobRequestOptions.h"
-#import "AZSOperationContext.h"
-#import "AZSBlobProperties.h"
-#import "AZSAccessCondition.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSErrors.h"
+#import "Azure Storage Client Library/AZSBlobUploadHelper.h"
+#import "Azure Storage Client Library/AZSCloudBlockBlob.h"
+#import "Azure Storage Client Library/AZSCloudPageBlob.h"
+#import "Azure Storage Client Library/AZSCloudAppendBlob.h"
+#import "Azure Storage Client Library/AZSBlockListItem.h"
+#import "Azure Storage Client Library/AZSBlobRequestOptions.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSBlobProperties.h"
+#import "Azure Storage Client Library/AZSAccessCondition.h"
 
 @interface AZSBlobUploadHelper()
 {

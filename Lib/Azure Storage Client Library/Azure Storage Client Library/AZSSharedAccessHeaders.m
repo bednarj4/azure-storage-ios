@@ -15,7 +15,7 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSSharedAccessHeaders.h"
+#import "Azure Storage Client Library/AZSSharedAccessHeaders.h"
 
 @implementation AZSSharedAccessHeaders
 

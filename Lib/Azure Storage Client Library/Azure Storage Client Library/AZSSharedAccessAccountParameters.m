@@ -15,10 +15,10 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSOperationContext.h"
-#import "AZSSharedAccessAccountParameters.h"
-#import "AZSErrors.h"
-#import "AZSUtil.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSSharedAccessAccountParameters.h"
+#import "Azure Storage Client Library/AZSErrors.h"
+#import "Azure Storage Client Library/AZSUtil.h"
 
 @implementation AZSSharedAccessAccountParameters
 

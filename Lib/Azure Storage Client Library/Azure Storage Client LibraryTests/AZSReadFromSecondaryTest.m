@@ -16,10 +16,10 @@
 // -----------------------------------------------------------------------------------------
 
 #import <XCTest/XCTest.h>
-#import "AZSClient.h"
-#import "AZSBlobTestBase.h"
-#import "AZSTestHelpers.h"
-#import "AZSTestSemaphore.h"
+#import "Azure Storage Client Library/AZSClient.h"
+#import "Azure Storage Client Library/AZSBlobTestBase.h"
+#import "Azure Storage Client Library/AZSTestHelpers.h"
+#import "Azure Storage Client Library/AZSTestSemaphore.h"
 
 // TODO: Figure out a way to not have to document this.  Unfortunately, it will show up in the exported documentation.
 /** A retry policy, used for testing only.  Reserved for internal use. */

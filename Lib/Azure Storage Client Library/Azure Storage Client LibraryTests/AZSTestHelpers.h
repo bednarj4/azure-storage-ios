@@ -16,8 +16,8 @@
 // -----------------------------------------------------------------------------------------
 
 #import <XCTest/XCTest.h>
-#import "AZSTestBase.h"
-#import "AZSEnums.h"
+#import "Azure Storage Client Library/AZSTestBase.h"
+#import "Azure Storage Client Library/AZSEnums.h"
 
 @class AZSContinuationToken;
 

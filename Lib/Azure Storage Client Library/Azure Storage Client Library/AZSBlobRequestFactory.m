@@ -15,16 +15,16 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSBlobRequestFactory.h"
-#import "AZSAccessCondition.h"
-#import "AZSConstants.h"
-#import "AZSContinuationToken.h"
-#import "AZSBlobContainerProperties.h"
-#import "AZSEnums.h"
-#import "AZSCopyState.h"
-#import "AZSBlobProperties.h"
-#import "AZSRequestFactory.h"
-#import "AZSUtil.h"
+#import "Azure Storage Client Library/AZSBlobRequestFactory.h"
+#import "Azure Storage Client Library/AZSAccessCondition.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSContinuationToken.h"
+#import "Azure Storage Client Library/AZSBlobContainerProperties.h"
+#import "Azure Storage Client Library/AZSEnums.h"
+#import "Azure Storage Client Library/AZSCopyState.h"
+#import "Azure Storage Client Library/AZSBlobProperties.h"
+#import "Azure Storage Client Library/AZSRequestFactory.h"
+#import "Azure Storage Client Library/AZSUtil.h"
 
 @implementation AZSBlobRequestFactory
 

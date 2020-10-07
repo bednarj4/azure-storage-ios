@@ -15,7 +15,7 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSSharedAccessPolicy.h"
+#import "Azure Storage Client Library/AZSSharedAccessPolicy.h"
 
 @interface AZSSharedAccessPolicy()
 

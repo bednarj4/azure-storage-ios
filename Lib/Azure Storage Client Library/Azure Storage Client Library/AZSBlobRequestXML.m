@@ -16,18 +16,18 @@
 // -----------------------------------------------------------------------------------------
 
 #import <libxml/xmlwriter.h>
-#import "AZSBlobRequestXML.h"
-#import "AZSBlockListItem.h"
-#import "AZSConstants.h"
-#import "AZSCorsRule.h"
-#import "AZSErrors.h"
-#import "AZSOperationContext.h"
-#import "AZSLoggingProperties.h"
-#import "AZSMetricsProperties.h"
-#import "AZSServiceProperties.h"
-#import "AZSSharedAccessPolicy.h"
-#import "AZSSharedAccessSignatureHelper.h"
-#import "AZSUtil.h"
+#import "Azure Storage Client Library/AZSBlobRequestXML.h"
+#import "Azure Storage Client Library/AZSBlockListItem.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSCorsRule.h"
+#import "Azure Storage Client Library/AZSErrors.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSLoggingProperties.h"
+#import "Azure Storage Client Library/AZSMetricsProperties.h"
+#import "Azure Storage Client Library/AZSServiceProperties.h"
+#import "Azure Storage Client Library/AZSSharedAccessPolicy.h"
+#import "Azure Storage Client Library/AZSSharedAccessSignatureHelper.h"
+#import "Azure Storage Client Library/AZSUtil.h"
 
 @interface AZSBlobRequestXML()
 

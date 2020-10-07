@@ -16,7 +16,7 @@
 // -----------------------------------------------------------------------------------------
 
 #import <Foundation/Foundation.h>
-#import "AZSCorsRule.h"
+#import "Azure Storage Client Library/AZSCorsRule.h"
 
 @implementation AZSCorsRule
 

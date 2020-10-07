@@ -16,16 +16,16 @@
 // -----------------------------------------------------------------------------------------
 
 #import <XCTest/XCTest.h>
-#import "AZSCloudBlobContainer.h"
-#import "AZSCloudBlobClient.h"
-#import "AZSCloudBlobDirectory.h"
-#import "AZSStorageUri.h"
-#import "AZSBlobTestBase.h"
-#import "AZSResultSegment.h"
-#import "AZSCloudBlockBlob.h"
-#import "AZSUtil.h"
-#import "AZSTestSemaphore.h"
-#import "AZSTestHelpers.h"
+#import "Azure Storage Client Library/AZSCloudBlobContainer.h"
+#import "Azure Storage Client Library/AZSCloudBlobClient.h"
+#import "Azure Storage Client Library/AZSCloudBlobDirectory.h"
+#import "Azure Storage Client Library/AZSStorageUri.h"
+#import "Azure Storage Client Library/AZSBlobTestBase.h"
+#import "Azure Storage Client Library/AZSResultSegment.h"
+#import "Azure Storage Client Library/AZSCloudBlockBlob.h"
+#import "Azure Storage Client Library/AZSUtil.h"
+#import "Azure Storage Client Library/AZSTestSemaphore.h"
+#import "Azure Storage Client Library/AZSTestHelpers.h"
 
 @interface AZSCloudBlobDirectoryTests : AZSBlobTestBase
 

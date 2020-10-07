@@ -15,8 +15,8 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSMetricsProperties.h"
-#import "AZSEnums.h"
+#import "Azure Storage Client Library/AZSMetricsProperties.h"
+#import "Azure Storage Client Library/AZSEnums.h"
 
 @implementation AZSMetricsProperties
 

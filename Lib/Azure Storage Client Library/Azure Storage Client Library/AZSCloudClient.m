@@ -15,10 +15,10 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSCloudClient.h"
-#import "AZSStorageCredentials.h"
-#import "AZSSharedKeyBlobAuthenticationHandler.h"
-#import "AZSNoOpAuthenticationHandler.h"
+#import "Azure Storage Client Library/AZSCloudClient.h"
+#import "Azure Storage Client Library/AZSStorageCredentials.h"
+#import "Azure Storage Client Library/AZSSharedKeyBlobAuthenticationHandler.h"
+#import "Azure Storage Client Library/AZSNoOpAuthenticationHandler.h"
 
 @interface AZSCloudClient()
 {

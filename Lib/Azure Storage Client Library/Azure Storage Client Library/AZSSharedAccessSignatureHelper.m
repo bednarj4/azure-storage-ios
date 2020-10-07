@@ -15,19 +15,19 @@
 // </copyright>
 // -----------------------------------------------------------------------------------------
 
-#import "AZSConstants.h"
-#import "AZSCloudClient.h"
-#import "AZSErrors.h"
-#import "AZSOperationContext.h"
-#import "AZSNavigationUtil.h"
-#import "AZSSharedAccessAccountParameters.h"
-#import "AZSSharedAccessBlobParameters.h"
-#import "AZSSharedAccessHeaders.h"
-#import "AZSSharedAccessSignatureHelper.h"
-#import "AZSStorageUri.h"
-#import "AZSUtil.h"
-#import "AZSStorageCredentials.h"
-#import "AZSUriQueryBuilder.h"
+#import "Azure Storage Client Library/AZSConstants.h"
+#import "Azure Storage Client Library/AZSCloudClient.h"
+#import "Azure Storage Client Library/AZSErrors.h"
+#import "Azure Storage Client Library/AZSOperationContext.h"
+#import "Azure Storage Client Library/AZSNavigationUtil.h"
+#import "Azure Storage Client Library/AZSSharedAccessAccountParameters.h"
+#import "Azure Storage Client Library/AZSSharedAccessBlobParameters.h"
+#import "Azure Storage Client Library/AZSSharedAccessHeaders.h"
+#import "Azure Storage Client Library/AZSSharedAccessSignatureHelper.h"
+#import "Azure Storage Client Library/AZSStorageUri.h"
+#import "Azure Storage Client Library/AZSUtil.h"
+#import "Azure Storage Client Library/AZSStorageCredentials.h"
+#import "Azure Storage Client Library/AZSUriQueryBuilder.h"
 
 @implementation AZSSharedAccessSignatureHelper
 
